@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Password reset",
+    "content": "To reset your password, go to the login screen and click on 'Forgot Password'. Enter the email address associated with your account, and we will send you a link to securely reset your password. The link will expire in 24 hours for security reasons. If you don't receive the email, please check your spam folder."
+  },
+  {
+    "title": "Account deletion",
+    "content": "If you wish to permanently delete your account, navigate to Settings > Security and Privacy. Scroll to the bottom of the page and click 'Delete Account'. Please note that this action is irreversible and all your data, including chat history and preferences, will be permanently removed from our servers within 30 days."
+  },
+  {
+    "title": "Refund policy",
+    "content": "We offer a 14-day money-back guarantee for all new subscriptions. If you are not satisfied with our service, you can request a full refund within 14 days of your initial purchase. To request a refund, please contact our billing department through the support portal. Refunds are typically processed within 5-7 business days."
+  },
+  {
+    "title": "Subscription cancellation",
+    "content": "You can cancel your active subscription at any time to prevent future billing. Go to Settings > Billing and select 'Cancel Subscription'. Your current plan will remain active until the end of your billing cycle. We do not provide prorated refunds for mid-cycle cancellations."
+  },
+  {
+    "title": "Email verification",
+    "content": "When you create a new account, we send a verification link to your registered email address. You must click this link to activate your account. If the link expires or you do not receive it, you can request a new verification email from your profile settings page."
+  },
+  {
+    "title": "Two-factor authentication",
+    "content": "To enhance your account security, we recommend enabling Two-Factor Authentication (2FA). Go to Settings > Security, and select 'Enable 2FA'. You can use an authenticator app like Google Authenticator or Authy to scan the QR code and generate backup codes. Keep your backup codes in a safe place."
+  },
+  {
+    "title": "Profile updates",
+    "content": "You can update your personal information, including your name, avatar, and contact details, by navigating to Settings > Profile. Make the necessary changes and click 'Save'. Note that changing your primary email address will require re-verification."
+  },
+  {
+    "title": "Payment failure",
+    "content": "If your subscription payment fails, our system will automatically retry charging your card up to 3 times over the next 7 days. If all attempts fail, your account will be downgraded to the free tier. Please ensure your card details are up to date in the Billing section."
+  },
+  {
+    "title": "Delivery tracking",
+    "content": "Once your physical hardware token is shipped, you will receive an email containing a tracking number and a link to the carrier's website. Standard shipping usually takes 3-5 business days. For expedited shipping, delivery is guaranteed within 48 hours."
+  },
+  {
+    "title": "Contact support",
+    "content": "If you need assistance beyond our documentation, our support team is available 24/7. You can reach us via the live chat widget in the bottom right corner of the dashboard, or by emailing support@example.com. For enterprise customers, please refer to your dedicated SLA contact number."
+  }
+]
